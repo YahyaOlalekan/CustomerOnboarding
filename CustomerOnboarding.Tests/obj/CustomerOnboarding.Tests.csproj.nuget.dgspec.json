@@ -190,6 +190,10 @@
             "xunit": {
               "target": "Package",
               "version": "[2.5.3, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.5.3, )"
             }
           },
           "imports": [

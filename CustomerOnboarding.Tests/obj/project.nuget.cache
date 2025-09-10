@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "qbydrFUwerU=",
+  "dgSpecHash": "4hbhf5+hN/Q=",
   "success": true,
   "projectFilePath": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Tests\\CustomerOnboarding.Tests.csproj",
   "expectedPackageFiles": [
@@ -199,7 +199,8 @@
     "C:\\Users\\USER\\.nuget\\packages\\xunit.assert\\2.5.3\\xunit.assert.2.5.3.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\xunit.core\\2.5.3\\xunit.core.2.5.3.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\xunit.extensibility.core\\2.5.3\\xunit.extensibility.core.2.5.3.nupkg.sha512",
-    "C:\\Users\\USER\\.nuget\\packages\\xunit.extensibility.execution\\2.5.3\\xunit.extensibility.execution.2.5.3.nupkg.sha512"
+    "C:\\Users\\USER\\.nuget\\packages\\xunit.extensibility.execution\\2.5.3\\xunit.extensibility.execution.2.5.3.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\xunit.runner.visualstudio\\2.5.3\\xunit.runner.visualstudio.2.5.3.nupkg.sha512"
   ],
   "logs": []
 }

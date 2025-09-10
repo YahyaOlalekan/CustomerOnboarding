@@ -481,3 +481,6 @@ C:\Users\USER\Desktop\CustomerOnboarding\CustomerOnboarding.Tests\obj\Debug\net8
 C:\Users\USER\Desktop\CustomerOnboarding\CustomerOnboarding.Tests\obj\Debug\net8.0\CustomerOnboarding.Tests.pdb
 C:\Users\USER\Desktop\CustomerOnboarding\CustomerOnboarding.Tests\obj\Debug\net8.0\CustomerOnboarding.Tests.genruntimeconfig.cache
 C:\Users\USER\Desktop\CustomerOnboarding\CustomerOnboarding.Tests\obj\Debug\net8.0\ref\CustomerOnboarding.Tests.dll
+C:\Users\USER\Desktop\CustomerOnboarding\CustomerOnboarding.Tests\bin\Debug\net8.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\USER\Desktop\CustomerOnboarding\CustomerOnboarding.Tests\bin\Debug\net8.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\USER\Desktop\CustomerOnboarding\CustomerOnboarding.Tests\bin\Debug\net8.0\xunit.runner.utility.netcoreapp10.dll
