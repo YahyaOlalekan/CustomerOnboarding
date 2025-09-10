@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "/T9AQG5dkCl+gqYO+rJfilb7Yc80Xdc7+6MUUn4Ys3c=",
+  "Source": "CustomerOnboarding.Api",
+  "BasePath": "_content/CustomerOnboarding.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
