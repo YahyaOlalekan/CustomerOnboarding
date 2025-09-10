@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerOnboarding.Api", "CustomerOnboarding.Api\CustomerOnboarding.Api.csproj", "{456AAE96-0766-4B98-BA81-6F9F6E4316A7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{C8BE1F6D-5CF9-41B1-A965-873F7FA06EA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerOnboarding.Tests", "CustomerOnboarding.Tests\CustomerOnboarding.Tests.csproj", "{3218B988-F309-4138-895B-A6F9FB6C7784}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{C6F24A70-DCE2-46EA-B07D-C9CCB13E69C3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5850C5C9-A263-49D4-85CB-A37D4FF5D02C}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{456AAE96-0766-4B98-BA81-6F9F6E4316A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{456AAE96-0766-4B98-BA81-6F9F6E4316A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{456AAE96-0766-4B98-BA81-6F9F6E4316A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{456AAE96-0766-4B98-BA81-6F9F6E4316A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3218B988-F309-4138-895B-A6F9FB6C7784}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3218B988-F309-4138-895B-A6F9FB6C7784}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3218B988-F309-4138-895B-A6F9FB6C7784}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3218B988-F309-4138-895B-A6F9FB6C7784}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{456AAE96-0766-4B98-BA81-6F9F6E4316A7} = {C8BE1F6D-5CF9-41B1-A965-873F7FA06EA3}
+		{3218B988-F309-4138-895B-A6F9FB6C7784} = {C6F24A70-DCE2-46EA-B07D-C9CCB13E69C3}
+	EndGlobalSection
+EndGlobal
