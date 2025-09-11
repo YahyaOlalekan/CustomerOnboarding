@@ -16,7 +16,6 @@ var builder = WebApplication.CreateBuilder(args);
 // Serilog
 builder.Host.UseSerilog((ctx, cfg) => cfg.ReadFrom.Configuration(ctx.Configuration));
 
-// Add services
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
@@ -25,7 +24,6 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
-// Repositories & services
 builder.Services.AddScoped<ICustomerRepository, CustomerRepository>();
 builder.Services.AddScoped<CustomerService>();
 builder.Services.AddScoped<IOtpService, OtpServiceImplementation>();
@@ -64,7 +62,7 @@ builder.Services.AddCors(options =>
     });
 });
 
-WebApplication app = builder.Build();
+var app = builder.Build();
 
 app.UseMiddleware<ErrorHandlingMiddleware>();
 

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CustomerOnboarding.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c7d20c1ed943620b62e9417db84d96bc7fbc51e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99ce7ebfa9be15b3452aa3e1f6805f476539a98e")]
 [assembly: System.Reflection.AssemblyProductAttribute("CustomerOnboarding.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CustomerOnboarding.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

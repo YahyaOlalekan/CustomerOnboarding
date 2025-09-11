@@ -25,7 +25,6 @@ public CustomerService(ICustomerRepository repo, IOtpService otp, IMapper mapper
 
 public async Task StartOnboardingAsync(CreateCustomerRequest request, CancellationToken ct)
 {
-        // Uniqueness checks
         if (await _repo.GetByPhoneAsync(request.PhoneNumber, ct) is not null)
             throw new InvalidOperationException("Phone number already in use.");
 
@@ -34,7 +33,6 @@ public async Task StartOnboardingAsync(CreateCustomerRequest request, Cancellati
 
         // LGA belongs to State:this check is done in controller ;
 
-        // Hash password securely
         var passwordHash = _passwordHasher.HashPassword(request.Password);
 
         // Create customer (pending)

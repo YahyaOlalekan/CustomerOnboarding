@@ -54,7 +54,7 @@ public sealed class AppDbContext : DbContext
         });
 
 
-        // Seed basic states and lgas (example)
+        // Seeding of basic states and lgas
         modelBuilder.Entity<State>().HasData(
         new State { Id = 1, Name = "Lagos" },
         new State { Id = 2, Name = "Oyo" }
