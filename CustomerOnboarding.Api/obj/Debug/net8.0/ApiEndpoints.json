@@ -2,7 +2,7 @@
   {
     "ContainingType": "CustomerOnboarding.Api.Controllers.BanksController",
     "Method": "GetBanks",
-    "RelativePath": "api/Banks",
+    "RelativePath": "api/banks",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -12,7 +12,7 @@
   {
     "ContainingType": "CustomerOnboarding.Api.Controllers.CustomersController",
     "Method": "StartOnboarding",
-    "RelativePath": "api/Customers",
+    "RelativePath": "api/customers",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -28,7 +28,7 @@
   {
     "ContainingType": "CustomerOnboarding.Api.Controllers.CustomersController",
     "Method": "GetAll",
-    "RelativePath": "api/Customers",
+    "RelativePath": "api/customers",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -38,7 +38,7 @@
   {
     "ContainingType": "CustomerOnboarding.Api.Controllers.CustomersController",
     "Method": "VerifyOtp",
-    "RelativePath": "api/Customers/verify-otp",
+    "RelativePath": "api/customers/verify-otp",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,

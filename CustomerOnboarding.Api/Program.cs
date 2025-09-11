@@ -29,6 +29,7 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 builder.Services.AddScoped<ICustomerRepository, CustomerRepository>();
 builder.Services.AddScoped<CustomerService>();
 builder.Services.AddScoped<IOtpService, OtpServiceImplementation>();
+builder.Services.AddScoped<IPasswordHasher, PasswordHasher>();
 
 // Http client for external bank API. BaseUrl points directly to the bank endpoint in config.
 builder.Services.AddHttpClient<IBankClient, BankClient>(client =>
@@ -82,4 +83,4 @@ app.MapControllers();
 app.Run();
 
 
-public partial class Program { } //for WebApplicationFactory<T> in tests
+public partial class Program { } 

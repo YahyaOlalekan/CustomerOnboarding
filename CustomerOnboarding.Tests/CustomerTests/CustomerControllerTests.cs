@@ -4,7 +4,7 @@ using CustomerOnboarding.Api;
 using Microsoft.AspNetCore.Mvc.Testing;
 using Xunit;
 
-namespace CustomerOnboarding.Tests
+namespace CustomerOnboarding.Tests.CustomerTests
 {
     public class CustomerControllerTests : IClassFixture<WebApplicationFactory<Program>>
     {

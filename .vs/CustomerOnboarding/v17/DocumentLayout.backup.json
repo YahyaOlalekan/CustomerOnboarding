@@ -3,112 +3,76 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3218B988-F309-4138-895B-A6F9FB6C7784}|CustomerOnboarding.Tests\\CustomerOnboarding.Tests.csproj|c:\\users\\user\\desktop\\customeronboarding\\customeronboarding.tests\\customerservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3218B988-F309-4138-895B-A6F9FB6C7784}|CustomerOnboarding.Tests\\CustomerOnboarding.Tests.csproj|solutionrelative:customeronboarding.tests\\customerservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3218B988-F309-4138-895B-A6F9FB6C7784}|CustomerOnboarding.Tests\\CustomerOnboarding.Tests.csproj|c:\\users\\user\\desktop\\customeronboarding\\customeronboarding.tests\\customercontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3218B988-F309-4138-895B-A6F9FB6C7784}|CustomerOnboarding.Tests\\CustomerOnboarding.Tests.csproj|solutionrelative:customeronboarding.tests\\customercontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3218B988-F309-4138-895B-A6F9FB6C7784}|CustomerOnboarding.Tests\\CustomerOnboarding.Tests.csproj|c:\\users\\user\\desktop\\customeronboarding\\customeronboarding.tests\\customeronboarding.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3218B988-F309-4138-895B-A6F9FB6C7784}|CustomerOnboarding.Tests\\CustomerOnboarding.Tests.csproj|solutionrelative:customeronboarding.tests\\customeronboarding.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{456AAE96-0766-4B98-BA81-6F9F6E4316A7}|CustomerOnboarding.Api\\CustomerOnboarding.Api.csproj|c:\\users\\user\\desktop\\customeronboarding\\customeronboarding.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{456AAE96-0766-4B98-BA81-6F9F6E4316A7}|CustomerOnboarding.Api\\CustomerOnboarding.Api.csproj|solutionrelative:customeronboarding.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{456AAE96-0766-4B98-BA81-6F9F6E4316A7}|CustomerOnboarding.Api\\CustomerOnboarding.Api.csproj|c:\\users\\user\\desktop\\customeronboarding\\customeronboarding.api\\domain\\entities\\otptoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{456AAE96-0766-4B98-BA81-6F9F6E4316A7}|CustomerOnboarding.Api\\CustomerOnboarding.Api.csproj|solutionrelative:customeronboarding.api\\domain\\entities\\otptoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{456AAE96-0766-4B98-BA81-6F9F6E4316A7}|CustomerOnboarding.Api\\CustomerOnboarding.Api.csproj|c:\\users\\user\\desktop\\customeronboarding\\customeronboarding.api\\domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{456AAE96-0766-4B98-BA81-6F9F6E4316A7}|CustomerOnboarding.Api\\CustomerOnboarding.Api.csproj|solutionrelative:customeronboarding.api\\domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{456AAE96-0766-4B98-BA81-6F9F6E4316A7}|CustomerOnboarding.Api\\CustomerOnboarding.Api.csproj|c:\\users\\user\\desktop\\customeronboarding\\customeronboarding.api\\application\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{456AAE96-0766-4B98-BA81-6F9F6E4316A7}|CustomerOnboarding.Api\\CustomerOnboarding.Api.csproj|solutionrelative:customeronboarding.api\\application\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{456AAE96-0766-4B98-BA81-6F9F6E4316A7}|CustomerOnboarding.Api\\CustomerOnboarding.Api.csproj|c:\\users\\user\\desktop\\customeronboarding\\customeronboarding.api\\application\\services\\otpserviceimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{456AAE96-0766-4B98-BA81-6F9F6E4316A7}|CustomerOnboarding.Api\\CustomerOnboarding.Api.csproj|solutionrelative:customeronboarding.api\\application\\services\\otpserviceimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{456AAE96-0766-4B98-BA81-6F9F6E4316A7}|CustomerOnboarding.Api\\CustomerOnboarding.Api.csproj|c:\\users\\user\\desktop\\customeronboarding\\customeronboarding.api\\controllers\\bankscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{456AAE96-0766-4B98-BA81-6F9F6E4316A7}|CustomerOnboarding.Api\\CustomerOnboarding.Api.csproj|solutionrelative:customeronboarding.api\\controllers\\bankscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{456AAE96-0766-4B98-BA81-6F9F6E4316A7}|CustomerOnboarding.Api\\CustomerOnboarding.Api.csproj|c:\\users\\user\\desktop\\customeronboarding\\customeronboarding.api\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{456AAE96-0766-4B98-BA81-6F9F6E4316A7}|CustomerOnboarding.Api\\CustomerOnboarding.Api.csproj|solutionrelative:customeronboarding.api\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{456AAE96-0766-4B98-BA81-6F9F6E4316A7}|CustomerOnboarding.Api\\CustomerOnboarding.Api.csproj|c:\\users\\user\\desktop\\customeronboarding\\customeronboarding.api\\dtos\\verifyotprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{456AAE96-0766-4B98-BA81-6F9F6E4316A7}|CustomerOnboarding.Api\\CustomerOnboarding.Api.csproj|solutionrelative:customeronboarding.api\\dtos\\verifyotprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{456AAE96-0766-4B98-BA81-6F9F6E4316A7}|CustomerOnboarding.Api\\CustomerOnboarding.Api.csproj|c:\\users\\user\\desktop\\customeronboarding\\customeronboarding.api\\domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{456AAE96-0766-4B98-BA81-6F9F6E4316A7}|CustomerOnboarding.Api\\CustomerOnboarding.Api.csproj|solutionrelative:customeronboarding.api\\domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{456AAE96-0766-4B98-BA81-6F9F6E4316A7}|CustomerOnboarding.Api\\CustomerOnboarding.Api.csproj|c:\\users\\user\\desktop\\customeronboarding\\customeronboarding.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{456AAE96-0766-4B98-BA81-6F9F6E4316A7}|CustomerOnboarding.Api\\CustomerOnboarding.Api.csproj|solutionrelative:customeronboarding.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{456AAE96-0766-4B98-BA81-6F9F6E4316A7}|CustomerOnboarding.Api\\CustomerOnboarding.Api.csproj|c:\\users\\user\\desktop\\customeronboarding\\customeronboarding.api\\customeronboarding.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{456AAE96-0766-4B98-BA81-6F9F6E4316A7}|CustomerOnboarding.Api\\CustomerOnboarding.Api.csproj|solutionrelative:customeronboarding.api\\customeronboarding.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{456AAE96-0766-4B98-BA81-6F9F6E4316A7}|CustomerOnboarding.Api\\CustomerOnboarding.Api.csproj|c:\\users\\user\\desktop\\customeronboarding\\customeronboarding.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{456AAE96-0766-4B98-BA81-6F9F6E4316A7}|CustomerOnboarding.Api\\CustomerOnboarding.Api.csproj|solutionrelative:customeronboarding.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{456AAE96-0766-4B98-BA81-6F9F6E4316A7}|CustomerOnboarding.Api\\CustomerOnboarding.Api.csproj|c:\\users\\user\\desktop\\customeronboarding\\customeronboarding.api\\customeronboarding.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{456AAE96-0766-4B98-BA81-6F9F6E4316A7}|CustomerOnboarding.Api\\CustomerOnboarding.Api.csproj|solutionrelative:customeronboarding.api\\customeronboarding.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{456AAE96-0766-4B98-BA81-6F9F6E4316A7}|CustomerOnboarding.Api\\CustomerOnboarding.Api.csproj|c:\\users\\user\\desktop\\customeronboarding\\customeronboarding.api\\controllers\\bankscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{456AAE96-0766-4B98-BA81-6F9F6E4316A7}|CustomerOnboarding.Api\\CustomerOnboarding.Api.csproj|solutionrelative:customeronboarding.api\\controllers\\bankscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{456AAE96-0766-4B98-BA81-6F9F6E4316A7}|CustomerOnboarding.Api\\CustomerOnboarding.Api.csproj|c:\\users\\user\\desktop\\customeronboarding\\customeronboarding.api\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{456AAE96-0766-4B98-BA81-6F9F6E4316A7}|CustomerOnboarding.Api\\CustomerOnboarding.Api.csproj|solutionrelative:customeronboarding.api\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{456AAE96-0766-4B98-BA81-6F9F6E4316A7}|CustomerOnboarding.Api\\CustomerOnboarding.Api.csproj|c:\\users\\user\\desktop\\customeronboarding\\customeronboarding.api\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{456AAE96-0766-4B98-BA81-6F9F6E4316A7}|CustomerOnboarding.Api\\CustomerOnboarding.Api.csproj|solutionrelative:customeronboarding.api\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{456AAE96-0766-4B98-BA81-6F9F6E4316A7}|CustomerOnboarding.Api\\CustomerOnboarding.Api.csproj|c:\\users\\user\\desktop\\customeronboarding\\customeronboarding.api\\infrastructure\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{456AAE96-0766-4B98-BA81-6F9F6E4316A7}|CustomerOnboarding.Api\\CustomerOnboarding.Api.csproj|solutionrelative:customeronboarding.api\\infrastructure\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{456AAE96-0766-4B98-BA81-6F9F6E4316A7}|CustomerOnboarding.Api\\CustomerOnboarding.Api.csproj|c:\\users\\user\\desktop\\customeronboarding\\customeronboarding.api\\infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{456AAE96-0766-4B98-BA81-6F9F6E4316A7}|CustomerOnboarding.Api\\CustomerOnboarding.Api.csproj|solutionrelative:customeronboarding.api\\infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{456AAE96-0766-4B98-BA81-6F9F6E4316A7}|CustomerOnboarding.Api\\CustomerOnboarding.Api.csproj|c:\\users\\user\\desktop\\customeronboarding\\customeronboarding.api\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{456AAE96-0766-4B98-BA81-6F9F6E4316A7}|CustomerOnboarding.Api\\CustomerOnboarding.Api.csproj|solutionrelative:customeronboarding.api\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{456AAE96-0766-4B98-BA81-6F9F6E4316A7}|CustomerOnboarding.Api\\CustomerOnboarding.Api.csproj|c:\\users\\user\\desktop\\customeronboarding\\customeronboarding.api\\dtos\\createcustomerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{456AAE96-0766-4B98-BA81-6F9F6E4316A7}|CustomerOnboarding.Api\\CustomerOnboarding.Api.csproj|solutionrelative:customeronboarding.api\\dtos\\createcustomerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{456AAE96-0766-4B98-BA81-6F9F6E4316A7}|CustomerOnboarding.Api\\CustomerOnboarding.Api.csproj|c:\\users\\user\\desktop\\customeronboarding\\customeronboarding.api\\domain\\external\\bankclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{456AAE96-0766-4B98-BA81-6F9F6E4316A7}|CustomerOnboarding.Api\\CustomerOnboarding.Api.csproj|solutionrelative:customeronboarding.api\\domain\\external\\bankclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{456AAE96-0766-4B98-BA81-6F9F6E4316A7}|CustomerOnboarding.Api\\CustomerOnboarding.Api.csproj|c:\\users\\user\\desktop\\customeronboarding\\customeronboarding.api\\domain\\entities\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{456AAE96-0766-4B98-BA81-6F9F6E4316A7}|CustomerOnboarding.Api\\CustomerOnboarding.Api.csproj|solutionrelative:customeronboarding.api\\domain\\entities\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{456AAE96-0766-4B98-BA81-6F9F6E4316A7}|CustomerOnboarding.Api\\CustomerOnboarding.Api.csproj|c:\\users\\user\\desktop\\customeronboarding\\customeronboarding.api\\domain\\entities\\otptoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{456AAE96-0766-4B98-BA81-6F9F6E4316A7}|CustomerOnboarding.Api\\CustomerOnboarding.Api.csproj|solutionrelative:customeronboarding.api\\domain\\entities\\otptoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{456AAE96-0766-4B98-BA81-6F9F6E4316A7}|CustomerOnboarding.Api\\CustomerOnboarding.Api.csproj|c:\\users\\user\\desktop\\customeronboarding\\customeronboarding.api\\domain\\entities\\lga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{456AAE96-0766-4B98-BA81-6F9F6E4316A7}|CustomerOnboarding.Api\\CustomerOnboarding.Api.csproj|solutionrelative:customeronboarding.api\\domain\\entities\\lga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{456AAE96-0766-4B98-BA81-6F9F6E4316A7}|CustomerOnboarding.Api\\CustomerOnboarding.Api.csproj|c:\\users\\user\\desktop\\customeronboarding\\customeronboarding.api\\application\\validators\\createcustomerrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{456AAE96-0766-4B98-BA81-6F9F6E4316A7}|CustomerOnboarding.Api\\CustomerOnboarding.Api.csproj|solutionrelative:customeronboarding.api\\application\\validators\\createcustomerrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3218B988-F309-4138-895B-A6F9FB6C7784}|CustomerOnboarding.Tests\\CustomerOnboarding.Tests.csproj|c:\\users\\user\\desktop\\customeronboarding\\customeronboarding.tests\\otpserviceimplementationtests\\otpserviceimplementationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3218B988-F309-4138-895B-A6F9FB6C7784}|CustomerOnboarding.Tests\\CustomerOnboarding.Tests.csproj|solutionrelative:customeronboarding.tests\\otpserviceimplementationtests\\otpserviceimplementationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3218B988-F309-4138-895B-A6F9FB6C7784}|CustomerOnboarding.Tests\\CustomerOnboarding.Tests.csproj|c:\\users\\user\\desktop\\customeronboarding\\customeronboarding.tests\\customeronboarding.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3218B988-F309-4138-895B-A6F9FB6C7784}|CustomerOnboarding.Tests\\CustomerOnboarding.Tests.csproj|solutionrelative:customeronboarding.tests\\customeronboarding.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3218B988-F309-4138-895B-A6F9FB6C7784}|CustomerOnboarding.Tests\\CustomerOnboarding.Tests.csproj|c:\\users\\user\\desktop\\customeronboarding\\customeronboarding.tests\\bankservicetests\\bankservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3218B988-F309-4138-895B-A6F9FB6C7784}|CustomerOnboarding.Tests\\CustomerOnboarding.Tests.csproj|solutionrelative:customeronboarding.tests\\bankservicetests\\bankservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3218B988-F309-4138-895B-A6F9FB6C7784}|CustomerOnboarding.Tests\\CustomerOnboarding.Tests.csproj|c:\\users\\user\\desktop\\customeronboarding\\customeronboarding.tests\\customertests\\customerservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3218B988-F309-4138-895B-A6F9FB6C7784}|CustomerOnboarding.Tests\\CustomerOnboarding.Tests.csproj|solutionrelative:customeronboarding.tests\\customertests\\customerservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{456AAE96-0766-4B98-BA81-6F9F6E4316A7}|CustomerOnboarding.Api\\CustomerOnboarding.Api.csproj|c:\\users\\user\\desktop\\customeronboarding\\customeronboarding.api\\application\\services\\otpserviceimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{456AAE96-0766-4B98-BA81-6F9F6E4316A7}|CustomerOnboarding.Api\\CustomerOnboarding.Api.csproj|solutionrelative:customeronboarding.api\\application\\services\\otpserviceimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{456AAE96-0766-4B98-BA81-6F9F6E4316A7}|CustomerOnboarding.Api\\CustomerOnboarding.Api.csproj|c:\\users\\user\\desktop\\customeronboarding\\customeronboarding.api\\application\\services\\bankservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{456AAE96-0766-4B98-BA81-6F9F6E4316A7}|CustomerOnboarding.Api\\CustomerOnboarding.Api.csproj|solutionrelative:customeronboarding.api\\application\\services\\bankservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{456AAE96-0766-4B98-BA81-6F9F6E4316A7}|CustomerOnboarding.Api\\CustomerOnboarding.Api.csproj|c:\\users\\user\\desktop\\customeronboarding\\customeronboarding.api\\application\\interfaces\\ibankclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{456AAE96-0766-4B98-BA81-6F9F6E4316A7}|CustomerOnboarding.Api\\CustomerOnboarding.Api.csproj|solutionrelative:customeronboarding.api\\application\\interfaces\\ibankclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3218B988-F309-4138-895B-A6F9FB6C7784}|CustomerOnboarding.Tests\\CustomerOnboarding.Tests.csproj|c:\\users\\user\\desktop\\customeronboarding\\customeronboarding.tests\\customertests\\customercontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3218B988-F309-4138-895B-A6F9FB6C7784}|CustomerOnboarding.Tests\\CustomerOnboarding.Tests.csproj|solutionrelative:customeronboarding.tests\\customertests\\customercontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{456AAE96-0766-4B98-BA81-6F9F6E4316A7}|CustomerOnboarding.Api\\CustomerOnboarding.Api.csproj|c:\\users\\user\\desktop\\customeronboarding\\customeronboarding.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{456AAE96-0766-4B98-BA81-6F9F6E4316A7}|CustomerOnboarding.Api\\CustomerOnboarding.Api.csproj|solutionrelative:customeronboarding.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{456AAE96-0766-4B98-BA81-6F9F6E4316A7}|CustomerOnboarding.Api\\CustomerOnboarding.Api.csproj|c:\\users\\user\\desktop\\customeronboarding\\customeronboarding.api\\application\\services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{456AAE96-0766-4B98-BA81-6F9F6E4316A7}|CustomerOnboarding.Api\\CustomerOnboarding.Api.csproj|solutionrelative:customeronboarding.api\\application\\services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{456AAE96-0766-4B98-BA81-6F9F6E4316A7}|CustomerOnboarding.Api\\CustomerOnboarding.Api.csproj|c:\\users\\user\\desktop\\customeronboarding\\customeronboarding.api\\application\\interfaces\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{456AAE96-0766-4B98-BA81-6F9F6E4316A7}|CustomerOnboarding.Api\\CustomerOnboarding.Api.csproj|solutionrelative:customeronboarding.api\\application\\interfaces\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{456AAE96-0766-4B98-BA81-6F9F6E4316A7}|CustomerOnboarding.Api\\CustomerOnboarding.Api.csproj|c:\\users\\user\\desktop\\customeronboarding\\customeronboarding.api\\application\\validators\\createcustomerrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{456AAE96-0766-4B98-BA81-6F9F6E4316A7}|CustomerOnboarding.Api\\CustomerOnboarding.Api.csproj|solutionrelative:customeronboarding.api\\application\\validators\\createcustomerrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{456AAE96-0766-4B98-BA81-6F9F6E4316A7}|CustomerOnboarding.Api\\CustomerOnboarding.Api.csproj|c:\\users\\user\\desktop\\customeronboarding\\customeronboarding.api\\application\\interfaces\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -121,10 +85,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5850C5C9-A263-49D4-85CB-A37D4FF5D02C}|Solution Items{5850C5C9-A263-49D4-85CB-A37D4FF5D02C}|C:\\Users\\USER\\Desktop\\CustomerOnboarding\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{5850C5C9-A263-49D4-85CB-A37D4FF5D02C}|Solution Items{5850C5C9-A263-49D4-85CB-A37D4FF5D02C}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{456AAE96-0766-4B98-BA81-6F9F6E4316A7}|CustomerOnboarding.Api\\CustomerOnboarding.Api.csproj|c:\\users\\user\\desktop\\customeronboarding\\customeronboarding.api\\migrations\\20250910171502_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{456AAE96-0766-4B98-BA81-6F9F6E4316A7}|CustomerOnboarding.Api\\CustomerOnboarding.Api.csproj|solutionrelative:customeronboarding.api\\migrations\\20250910171502_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -134,287 +94,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CustomerControllerTests.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Tests\\CustomerControllerTests.cs",
-              "RelativeDocumentMoniker": "CustomerOnboarding.Tests\\CustomerControllerTests.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Tests\\CustomerControllerTests.cs",
-              "RelativeToolTip": "CustomerOnboarding.Tests\\CustomerControllerTests.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwCYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T11:42:21.642Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CustomerServiceTests.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Tests\\CustomerServiceTests.cs",
-              "RelativeDocumentMoniker": "CustomerOnboarding.Tests\\CustomerServiceTests.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Tests\\CustomerServiceTests.cs",
-              "RelativeToolTip": "CustomerOnboarding.Tests\\CustomerServiceTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T11:41:11.136Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Api\\Program.cs",
-              "RelativeDocumentMoniker": "CustomerOnboarding.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Api\\Program.cs",
-              "RelativeToolTip": "CustomerOnboarding.Api\\Program.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAYwE0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T12:54:15.629Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "OtpToken.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Api\\Domain\\Entities\\OtpToken.cs",
-              "RelativeDocumentMoniker": "CustomerOnboarding.Api\\Domain\\Entities\\OtpToken.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Api\\Domain\\Entities\\OtpToken.cs",
-              "RelativeToolTip": "CustomerOnboarding.Api\\Domain\\Entities\\OtpToken.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T16:46:37.875Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CustomerOnboarding.Tests.csproj",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Tests\\CustomerOnboarding.Tests.csproj",
-              "RelativeDocumentMoniker": "CustomerOnboarding.Tests\\CustomerOnboarding.Tests.csproj",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Tests\\CustomerOnboarding.Tests.csproj",
-              "RelativeToolTip": "CustomerOnboarding.Tests\\CustomerOnboarding.Tests.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-10T12:18:22.612Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Api\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "CustomerOnboarding.Api\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Api\\Properties\\launchSettings.json",
-              "RelativeToolTip": "CustomerOnboarding.Api\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-10T18:26:57.103Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "VerifyOtpRequest.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Api\\DTOs\\VerifyOtpRequest.cs",
-              "RelativeDocumentMoniker": "CustomerOnboarding.Api\\DTOs\\VerifyOtpRequest.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Api\\DTOs\\VerifyOtpRequest.cs",
-              "RelativeToolTip": "CustomerOnboarding.Api\\DTOs\\VerifyOtpRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T16:47:24.418Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CustomersController.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Api\\Controllers\\CustomersController.cs",
-              "RelativeDocumentMoniker": "CustomerOnboarding.Api\\Controllers\\CustomersController.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Api\\Controllers\\CustomersController.cs",
-              "RelativeToolTip": "CustomerOnboarding.Api\\Controllers\\CustomersController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAMwCcAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T15:37:27.593Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "OtpServiceImplementation.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Api\\Application\\Services\\OtpServiceImplementation.cs",
-              "RelativeDocumentMoniker": "CustomerOnboarding.Api\\Application\\Services\\OtpServiceImplementation.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Api\\Application\\Services\\OtpServiceImplementation.cs",
-              "RelativeToolTip": "CustomerOnboarding.Api\\Application\\Services\\OtpServiceImplementation.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAWwEAAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T16:39:08.679Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CustomerService.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Api\\Application\\Services\\CustomerService.cs",
-              "RelativeDocumentMoniker": "CustomerOnboarding.Api\\Application\\Services\\CustomerService.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Api\\Application\\Services\\CustomerService.cs",
-              "RelativeToolTip": "CustomerOnboarding.Api\\Application\\Services\\CustomerService.cs",
-              "ViewState": "AgIAACsAAABwhE8w2VAwwDgAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T15:28:57.53Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Api\\Domain\\Entities\\Customer.cs",
-              "RelativeDocumentMoniker": "CustomerOnboarding.Api\\Domain\\Entities\\Customer.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Api\\Domain\\Entities\\Customer.cs",
-              "RelativeToolTip": "CustomerOnboarding.Api\\Domain\\Entities\\Customer.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAIwBEAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T14:42:51.052Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CustomerOnboarding.Api.csproj",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Api\\CustomerOnboarding.Api.csproj",
-              "RelativeDocumentMoniker": "CustomerOnboarding.Api\\CustomerOnboarding.Api.csproj",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Api\\CustomerOnboarding.Api.csproj",
-              "RelativeToolTip": "CustomerOnboarding.Api\\CustomerOnboarding.Api.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-10T12:03:50.821Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CustomerOnboarding.Api.http",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Api\\CustomerOnboarding.Api.http",
-              "RelativeDocumentMoniker": "CustomerOnboarding.Api\\CustomerOnboarding.Api.http",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Api\\CustomerOnboarding.Api.http",
-              "RelativeToolTip": "CustomerOnboarding.Api\\CustomerOnboarding.Api.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-09-10T16:48:48.27Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
               "Title": "BanksController.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Api\\Controllers\\BanksController.cs",
               "RelativeDocumentMoniker": "CustomerOnboarding.Api\\Controllers\\BanksController.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Api\\Controllers\\BanksController.cs",
               "RelativeToolTip": "CustomerOnboarding.Api\\Controllers\\BanksController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T16:45:27.594Z"
+              "WhenOpened": "2025-09-11T09:49:31.439Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Api\\appsettings.json",
-              "RelativeDocumentMoniker": "CustomerOnboarding.Api\\appsettings.json",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Api\\appsettings.json",
-              "RelativeToolTip": "CustomerOnboarding.Api\\appsettings.json",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-10T16:26:01.729Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "20250910171502_init.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Api\\Migrations\\20250910171502_init.cs",
-              "RelativeDocumentMoniker": "CustomerOnboarding.Api\\Migrations\\20250910171502_init.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Api\\Migrations\\20250910171502_init.cs",
-              "RelativeToolTip": "CustomerOnboarding.Api\\Migrations\\20250910171502_init.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T17:15:02.333Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ErrorHandlingMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Api\\Middleware\\ErrorHandlingMiddleware.cs",
-              "RelativeDocumentMoniker": "CustomerOnboarding.Api\\Middleware\\ErrorHandlingMiddleware.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Api\\Middleware\\ErrorHandlingMiddleware.cs",
-              "RelativeToolTip": "CustomerOnboarding.Api\\Middleware\\ErrorHandlingMiddleware.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAYwAMAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T16:26:53.15Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Api\\Mapping\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "CustomerOnboarding.Api\\Mapping\\MappingProfile.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Api\\Mapping\\MappingProfile.cs",
-              "RelativeToolTip": "CustomerOnboarding.Api\\Mapping\\MappingProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T14:53:33.616Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "CustomerRepository.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Api\\Infrastructure\\Repositories\\CustomerRepository.cs",
-              "RelativeDocumentMoniker": "CustomerOnboarding.Api\\Infrastructure\\Repositories\\CustomerRepository.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Api\\Infrastructure\\Repositories\\CustomerRepository.cs",
-              "RelativeToolTip": "CustomerOnboarding.Api\\Infrastructure\\Repositories\\CustomerRepository.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAowBYAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T16:47:49.378Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "CustomerDto.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Api\\DTOs\\CustomerDto.cs",
-              "RelativeDocumentMoniker": "CustomerOnboarding.Api\\DTOs\\CustomerDto.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Api\\DTOs\\CustomerDto.cs",
-              "RelativeToolTip": "CustomerOnboarding.Api\\DTOs\\CustomerDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T16:47:18.765Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "CreateCustomerRequest.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Api\\DTOs\\CreateCustomerRequest.cs",
-              "RelativeDocumentMoniker": "CustomerOnboarding.Api\\DTOs\\CreateCustomerRequest.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Api\\DTOs\\CreateCustomerRequest.cs",
-              "RelativeToolTip": "CustomerOnboarding.Api\\DTOs\\CreateCustomerRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T16:47:10.615Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "BankClient.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Api\\Domain\\External\\BankClient.cs",
-              "RelativeDocumentMoniker": "CustomerOnboarding.Api\\Domain\\External\\BankClient.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Api\\Domain\\External\\BankClient.cs",
-              "RelativeToolTip": "CustomerOnboarding.Api\\Domain\\External\\BankClient.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T16:46:48.954Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 4,
               "Title": "State.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Api\\Domain\\Entities\\State.cs",
               "RelativeDocumentMoniker": "CustomerOnboarding.Api\\Domain\\Entities\\State.cs",
@@ -422,23 +119,25 @@
               "RelativeToolTip": "CustomerOnboarding.Api\\Domain\\Entities\\State.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T16:46:42.92Z"
+              "WhenOpened": "2025-09-11T09:48:50.475Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Api\\Infrastructure\\Persistence\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "CustomerOnboarding.Api\\Infrastructure\\Persistence\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Api\\Infrastructure\\Persistence\\AppDbContext.cs",
-              "RelativeToolTip": "CustomerOnboarding.Api\\Infrastructure\\Persistence\\AppDbContext.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAswA0AAAAvAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "OtpToken.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Api\\Domain\\Entities\\OtpToken.cs",
+              "RelativeDocumentMoniker": "CustomerOnboarding.Api\\Domain\\Entities\\OtpToken.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Api\\Domain\\Entities\\OtpToken.cs",
+              "RelativeToolTip": "CustomerOnboarding.Api\\Domain\\Entities\\OtpToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T13:25:19.466Z"
+              "WhenOpened": "2025-09-11T09:48:50.367Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 6,
               "Title": "Lga.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Api\\Domain\\Entities\\Lga.cs",
               "RelativeDocumentMoniker": "CustomerOnboarding.Api\\Domain\\Entities\\Lga.cs",
@@ -446,35 +145,181 @@
               "RelativeToolTip": "CustomerOnboarding.Api\\Domain\\Entities\\Lga.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T16:46:27.674Z"
+              "WhenOpened": "2025-09-11T09:48:50.244Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 1,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Api\\Application\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "CustomerOnboarding.Api\\Application\\Services\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Api\\Application\\Services\\CustomerService.cs",
+              "RelativeToolTip": "CustomerOnboarding.Api\\Application\\Services\\CustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T15:28:57.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Api\\Domain\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "CustomerOnboarding.Api\\Domain\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Api\\Domain\\Entities\\Customer.cs",
+              "RelativeToolTip": "CustomerOnboarding.Api\\Domain\\Entities\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T06:36:20.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OtpServiceImplementationTests.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Tests\\OtpServiceImplementationTests\\OtpServiceImplementationTests.cs",
+              "RelativeDocumentMoniker": "CustomerOnboarding.Tests\\OtpServiceImplementationTests\\OtpServiceImplementationTests.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Tests\\OtpServiceImplementationTests\\OtpServiceImplementationTests.cs",
+              "RelativeToolTip": "CustomerOnboarding.Tests\\OtpServiceImplementationTests\\OtpServiceImplementationTests.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwEIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T09:27:26.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Api\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "CustomerOnboarding.Api\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Api\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "CustomerOnboarding.Api\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T08:24:36.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerOnboarding.Tests",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Tests\\CustomerOnboarding.Tests.csproj",
+              "RelativeDocumentMoniker": "CustomerOnboarding.Tests\\CustomerOnboarding.Tests.csproj",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Tests\\CustomerOnboarding.Tests.csproj",
+              "RelativeToolTip": "CustomerOnboarding.Tests\\CustomerOnboarding.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-11T09:09:18.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BankServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Tests\\BankServiceTests\\BankServiceTests.cs",
+              "RelativeDocumentMoniker": "CustomerOnboarding.Tests\\BankServiceTests\\BankServiceTests.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Tests\\BankServiceTests\\BankServiceTests.cs",
+              "RelativeToolTip": "CustomerOnboarding.Tests\\BankServiceTests\\BankServiceTests.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T09:26:08.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OtpServiceImplementation.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Api\\Application\\Services\\OtpServiceImplementation.cs",
+              "RelativeDocumentMoniker": "CustomerOnboarding.Api\\Application\\Services\\OtpServiceImplementation.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Api\\Application\\Services\\OtpServiceImplementation.cs",
+              "RelativeToolTip": "CustomerOnboarding.Api\\Application\\Services\\OtpServiceImplementation.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAwwFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T09:00:48.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "BankService.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Api\\Application\\Services\\BankService.cs",
               "RelativeDocumentMoniker": "CustomerOnboarding.Api\\Application\\Services\\BankService.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Api\\Application\\Services\\BankService.cs",
               "RelativeToolTip": "CustomerOnboarding.Api\\Application\\Services\\BankService.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T16:38:18.396Z"
+              "WhenOpened": "2025-09-11T09:00:09.968Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "IBankClient.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Api\\Application\\Interfaces\\IBankClient.cs",
-              "RelativeDocumentMoniker": "CustomerOnboarding.Api\\Application\\Interfaces\\IBankClient.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Api\\Application\\Interfaces\\IBankClient.cs",
-              "RelativeToolTip": "CustomerOnboarding.Api\\Application\\Interfaces\\IBankClient.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Api\\Program.cs",
+              "RelativeDocumentMoniker": "CustomerOnboarding.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Api\\Program.cs",
+              "RelativeToolTip": "CustomerOnboarding.Api\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwB8AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T16:37:37.949Z"
+              "WhenOpened": "2025-09-10T12:54:15.629Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 10,
+              "Title": "CustomerServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Tests\\CustomerTests\\CustomerServiceTests.cs",
+              "RelativeDocumentMoniker": "CustomerOnboarding.Tests\\CustomerTests\\CustomerServiceTests.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Tests\\CustomerTests\\CustomerServiceTests.cs",
+              "RelativeToolTip": "CustomerOnboarding.Tests\\CustomerTests\\CustomerServiceTests.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwI8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T11:41:11.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomerControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Tests\\CustomerTests\\CustomerControllerTests.cs",
+              "RelativeDocumentMoniker": "CustomerOnboarding.Tests\\CustomerTests\\CustomerControllerTests.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Tests\\CustomerTests\\CustomerControllerTests.cs",
+              "RelativeToolTip": "CustomerOnboarding.Tests\\CustomerTests\\CustomerControllerTests.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwBIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T06:30:05.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Api\\Application\\Services\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "CustomerOnboarding.Api\\Application\\Services\\PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Api\\Application\\Services\\PasswordHasher.cs",
+              "RelativeToolTip": "CustomerOnboarding.Api\\Application\\Services\\PasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T08:14:58.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IPasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Api\\Application\\Interfaces\\IPasswordHasher.cs",
+              "RelativeDocumentMoniker": "CustomerOnboarding.Api\\Application\\Interfaces\\IPasswordHasher.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Api\\Application\\Interfaces\\IPasswordHasher.cs",
+              "RelativeToolTip": "CustomerOnboarding.Api\\Application\\Interfaces\\IPasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T08:11:43.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "CreateCustomerRequestValidator.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Api\\Application\\Validators\\CreateCustomerRequestValidator.cs",
               "RelativeDocumentMoniker": "CustomerOnboarding.Api\\Application\\Validators\\CreateCustomerRequestValidator.cs",
@@ -482,11 +327,12 @@
               "RelativeToolTip": "CustomerOnboarding.Api\\Application\\Validators\\CreateCustomerRequestValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T13:50:28.15Z"
+              "WhenOpened": "2025-09-10T13:50:28.15Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 18,
               "Title": "ICustomerRepository.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Api\\Application\\Interfaces\\ICustomerRepository.cs",
               "RelativeDocumentMoniker": "CustomerOnboarding.Api\\Application\\Interfaces\\ICustomerRepository.cs",
@@ -494,11 +340,12 @@
               "RelativeToolTip": "CustomerOnboarding.Api\\Application\\Interfaces\\ICustomerRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T16:37:42.981Z"
+              "WhenOpened": "2025-09-10T16:37:42.981Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 19,
               "Title": "IOtpService.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\CustomerOnboarding.Api\\Application\\Interfaces\\IOtpService.cs",
               "RelativeDocumentMoniker": "CustomerOnboarding.Api\\Application\\Interfaces\\IOtpService.cs",
@@ -506,11 +353,12 @@
               "RelativeToolTip": "CustomerOnboarding.Api\\Application\\Interfaces\\IOtpService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T16:37:57.313Z"
+              "WhenOpened": "2025-09-10T16:37:57.313Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 20,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\CustomerOnboarding\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",
@@ -518,7 +366,8 @@
               "RelativeToolTip": ".gitignore",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-09-10T10:41:33.814Z"
+              "WhenOpened": "2025-09-10T10:41:33.814Z",
+              "EditorCaption": ""
             }
           ]
         }

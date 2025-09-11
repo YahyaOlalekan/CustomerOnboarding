@@ -7,7 +7,8 @@ using Microsoft.EntityFrameworkCore;
 namespace CustomerOnboarding.Api.Controllers
 {
     [ApiController]
-    [Route("api/[controller]")]
+    //[Route("api/[controller]")]
+    [Route("api/customers")]
     public sealed class CustomersController : ControllerBase
     {
         private readonly CustomerService _svc;

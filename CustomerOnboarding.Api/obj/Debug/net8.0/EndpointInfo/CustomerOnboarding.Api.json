@@ -5,7 +5,7 @@
     "version": "1.0"
   },
   "paths": {
-    "/api/Banks": {
+    "/api/banks": {
       "get": {
         "tags": [
           "Banks"
@@ -17,7 +17,7 @@
         }
       }
     },
-    "/api/Customers": {
+    "/api/customers": {
       "post": {
         "tags": [
           "Customers"
@@ -58,7 +58,7 @@
         }
       }
     },
-    "/api/Customers/verify-otp": {
+    "/api/customers/verify-otp": {
       "post": {
         "tags": [
           "Customers"

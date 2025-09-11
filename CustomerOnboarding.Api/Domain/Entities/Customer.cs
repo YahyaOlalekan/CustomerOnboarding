@@ -14,10 +14,7 @@
         public CustomerStatus Status { get; private set; }
         public DateTime CreatedAt { get; private set; }
 
-
-        public Customer() { }
-        //private Customer() { }
-
+        private Customer() { }
 
 
         public static Customer Create(string phoneNumber, string email, string passwordHash, int stateId, int lgaId)

@@ -8,6 +8,9 @@ C:\Users\USER\Desktop\CustomerOnboarding\CustomerOnboarding.Tests\bin\Debug\net8
 C:\Users\USER\Desktop\CustomerOnboarding\CustomerOnboarding.Tests\bin\Debug\net8.0\CustomerOnboarding.Api.exe
 C:\Users\USER\Desktop\CustomerOnboarding\CustomerOnboarding.Tests\bin\Debug\net8.0\testhost.exe
 C:\Users\USER\Desktop\CustomerOnboarding\CustomerOnboarding.Tests\bin\Debug\net8.0\MvcTestingAppManifest.json
+C:\Users\USER\Desktop\CustomerOnboarding\CustomerOnboarding.Tests\bin\Debug\net8.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\USER\Desktop\CustomerOnboarding\CustomerOnboarding.Tests\bin\Debug\net8.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\USER\Desktop\CustomerOnboarding\CustomerOnboarding.Tests\bin\Debug\net8.0\xunit.runner.utility.netcoreapp10.dll
 C:\Users\USER\Desktop\CustomerOnboarding\CustomerOnboarding.Tests\bin\Debug\net8.0\CustomerOnboarding.Tests.deps.json
 C:\Users\USER\Desktop\CustomerOnboarding\CustomerOnboarding.Tests\bin\Debug\net8.0\CustomerOnboarding.Tests.runtimeconfig.json
 C:\Users\USER\Desktop\CustomerOnboarding\CustomerOnboarding.Tests\bin\Debug\net8.0\CustomerOnboarding.Tests.dll
@@ -312,6 +315,7 @@ C:\Users\USER\Desktop\CustomerOnboarding\CustomerOnboarding.Tests\bin\Debug\net8
 C:\Users\USER\Desktop\CustomerOnboarding\CustomerOnboarding.Tests\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\USER\Desktop\CustomerOnboarding\CustomerOnboarding.Tests\bin\Debug\net8.0\Azure.Core.dll
 C:\Users\USER\Desktop\CustomerOnboarding\CustomerOnboarding.Tests\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\USER\Desktop\CustomerOnboarding\CustomerOnboarding.Tests\bin\Debug\net8.0\BCrypt.Net-Next.dll
 C:\Users\USER\Desktop\CustomerOnboarding\CustomerOnboarding.Tests\bin\Debug\net8.0\Castle.Core.dll
 C:\Users\USER\Desktop\CustomerOnboarding\CustomerOnboarding.Tests\bin\Debug\net8.0\FluentValidation.dll
 C:\Users\USER\Desktop\CustomerOnboarding\CustomerOnboarding.Tests\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
@@ -328,6 +332,7 @@ C:\Users\USER\Desktop\CustomerOnboarding\CustomerOnboarding.Tests\bin\Debug\net8
 C:\Users\USER\Desktop\CustomerOnboarding\CustomerOnboarding.Tests\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
 C:\Users\USER\Desktop\CustomerOnboarding\CustomerOnboarding.Tests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
 C:\Users\USER\Desktop\CustomerOnboarding\CustomerOnboarding.Tests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\USER\Desktop\CustomerOnboarding\CustomerOnboarding.Tests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
 C:\Users\USER\Desktop\CustomerOnboarding\CustomerOnboarding.Tests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\USER\Desktop\CustomerOnboarding\CustomerOnboarding.Tests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\Users\USER\Desktop\CustomerOnboarding\CustomerOnboarding.Tests\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
@@ -481,6 +486,3 @@ C:\Users\USER\Desktop\CustomerOnboarding\CustomerOnboarding.Tests\obj\Debug\net8
 C:\Users\USER\Desktop\CustomerOnboarding\CustomerOnboarding.Tests\obj\Debug\net8.0\CustomerOnboarding.Tests.pdb
 C:\Users\USER\Desktop\CustomerOnboarding\CustomerOnboarding.Tests\obj\Debug\net8.0\CustomerOnboarding.Tests.genruntimeconfig.cache
 C:\Users\USER\Desktop\CustomerOnboarding\CustomerOnboarding.Tests\obj\Debug\net8.0\ref\CustomerOnboarding.Tests.dll
-C:\Users\USER\Desktop\CustomerOnboarding\CustomerOnboarding.Tests\bin\Debug\net8.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
-C:\Users\USER\Desktop\CustomerOnboarding\CustomerOnboarding.Tests\bin\Debug\net8.0\xunit.runner.reporters.netcoreapp10.dll
-C:\Users\USER\Desktop\CustomerOnboarding\CustomerOnboarding.Tests\bin\Debug\net8.0\xunit.runner.utility.netcoreapp10.dll

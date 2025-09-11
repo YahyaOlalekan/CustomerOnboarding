@@ -4,7 +4,8 @@ using Microsoft.AspNetCore.Mvc;
 namespace CustomerOnboarding.Api.Controllers
 {
     [ApiController]
-    [Route("api/[controller]")]
+    [Route("api/banks")]
+
     public sealed class BanksController : ControllerBase
     {
         private readonly BankService _svc;
