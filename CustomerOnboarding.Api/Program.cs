@@ -1,6 +1,6 @@
 ﻿using CustomerOnboarding.Api.Application.Interfaces;
 using CustomerOnboarding.Api.Application.Services;
-using CustomerOnboarding.Api.Domain.External;
+using CustomerOnboarding.Api.Infrastructure.External;
 using CustomerOnboarding.Api.Infrastructure.Persistence;
 using CustomerOnboarding.Api.Infrastructure.Repositories;
 using CustomerOnboarding.Api.Mapping;

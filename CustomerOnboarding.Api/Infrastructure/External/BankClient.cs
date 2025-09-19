@@ -1,6 +1,6 @@
 ﻿using CustomerOnboarding.Api.Application.Interfaces;
 
-namespace CustomerOnboarding.Api.Domain.External
+namespace CustomerOnboarding.Api.Infrastructure.External
 {
     public sealed class BankClient : IBankClient
     {
